@@ -1,0 +1,15 @@
+ML assignment 
+In 6114 - PC -30
+
+On desktop - Folder Sparsh ( Hidden ) - 2
+
+Input : datasets - images and lists-val for image location
+
+Output in : output - parsing-val
+
+
+Run in conda prompt
+cd C:\Users\user\Desktop\Sparsh\2\LIP_JPPNet-master
+python ./evaluate_parsing_JPPNet-s2.py
+
+( In code changed xrange to range )
